@@ -12,7 +12,7 @@ pool:
   - visualstudio
 
 variables:
-  BuildConfiguratio: 'Release'
+  BuildConfiguration: 'Release'
 
 # Hier volgende daadwerkelijke "build-stappen". In dit geval hebben we een "eenvoudige" build pipeline - later zullen we kijken naar pipelines met meerdere "stages".
 steps:
